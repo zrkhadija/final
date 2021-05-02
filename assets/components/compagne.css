@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One%7CRubik:900');
+
+
+
+h2 {
+text-transform: Uppercase;
+margin-bottom: .5em;
+font-family: 'Rubik', sans-serif;
+font-size: 2rem;
+}
+
+h2 {
+position: relative;
+background: linear-gradient(to right, #4a4ab6, #c99c22, #179dbe);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; }
